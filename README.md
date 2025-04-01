@@ -28,8 +28,8 @@ The password's strength is classified as:
 Make sure you have Python 3 installed. Then clone the repository:
 
 ```bash
-git clone https://github.com/Zeousultra/PRODIGY_CS_03.git
-cd PRODIGY_CS_03
+git clone https://github.com/Zeousultra/Password_Strength_Checker.git
+cd Password_Strength_Checker
 ```
 
 ## Usage
